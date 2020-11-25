@@ -1,9 +1,2 @@
-[
-    {
-        "id":1,
-        "name":"Diogo",
-        "age":100,
-        "power":"mestrando"
-    }
-
-]
+[{"id":1,"name":"Diogo","age":100,"power":"mestrando"}
+    ]
